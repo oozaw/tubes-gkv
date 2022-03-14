@@ -1,0 +1,2 @@
+- tombol 'a' dan 'd' untuk menggerakkan truk sebelah kiri (hijau)
+- tombol 'o' dan 'p' untuk menggerakkan truk sebelah kanan (maroon)
